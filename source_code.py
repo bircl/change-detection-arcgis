@@ -2,7 +2,7 @@
 """
 Created on Sun Oct  4 14:05:13 2020
 
-@author: birkaN
+@author: bircl
 the script creates random training points and extracts iso cluster classification values to these 
 points in order to aid user decision in class definition for training areas
 """
