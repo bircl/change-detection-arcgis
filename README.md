@@ -1,5 +1,5 @@
 # Change Detection Tool arcGIS
-Arcmap plugin for land cover change detection analysis for Sentinel-2 and Landsat-8 satellite images - Written in Python, using ArcPy.
+Arcmap plugin for land cover change detection analysis based on Sentinel-2 and Landsat-8 satellite images - Written in Python, using ArcPy.
 
 ## Aim
 
